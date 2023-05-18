@@ -9,4 +9,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="colorPrimary">#3F51B5</color>
+    <color name="saturdayColor">#0000FF</color> <!-- 파란색 -->
+    <color name="sundayColor">#FF0000</color> <!-- 빨간색 -->
+    <color name="available_selection">#FFA726</color>
+    <color name="unavailable_selection">#E53935</color>
+
 </resources>

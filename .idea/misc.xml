@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/maincalendar/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/maincalendar/app/src/main/res/drawable/available_background.xml" value="0.1" />
+        <entry key="..\:/maincalendar/app/src/main/res/drawable/fully_booked_background.xml" value="0.1" />
+        <entry key="..\:/maincalendar/app/src/main/res/drawable/green_circle.xml" value="0.1" />
+        <entry key="..\:/maincalendar/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/maincalendar/app/src/main/res/drawable/partially_available_background.xml" value="0.1" />
+        <entry key="..\:/maincalendar/app/src/main/res/layout/activity_main.xml" value="0.43010752688172044" />
       </map>
     </option>
   </component>
